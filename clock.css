@@ -1,0 +1,33 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-image: linear-gradient(to right,#c0c0aa,#1cefff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.res{
+    height: 25vh;
+    width: 25vw;
+    margin-top: 30vh;
+    justify-content: center;
+    align-items: center;
+    border: black !important;
+    background-image: linear-gradient(to right,#59c173,#a17fe0,#5d26c1);
+    border-radius: 1rem;
+
+}
+.h3{
+    margin:5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
